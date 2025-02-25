@@ -95,15 +95,21 @@ Usando === (comparação estrita)
 
 O operador === compara tanto o valor quanto o tipo das variáveis, evitando conversões automáticas indesejadas. Isso garante que o código funcione corretamente e evite comportamentos inesperados.
 
-Dicas para evitar problemas com comparação de tipos
+### Dicas para evitar problemas com comparação de tipos
 
-✅ Sempre prefira === ao invés de == para comparações.✅ Se precisar converter tipos, faça isso explicitamente (ex: Number(string) ou String(number)).✅ Utilize typeof para verificar o tipo de uma variável antes da comparação.
+✅ Sempre prefira === ao invés de == para comparações.
+
+✅ Se precisar converter tipos, faça isso explicitamente (ex: Number(string) ou String(number)).
+
+✅ Utilize typeof para verificar o tipo de uma variável antes da comparação.
 
 🎯 Testando o Código
 
-Para testar o código, siga os passos:
+### Para testar o código, siga os passos:
 
-1️⃣ Salve o código em um arquivo chamado script.js.2️⃣ No terminal, execute:
+1️⃣ Salve o código em um arquivo chamado script.js.
+
+2️⃣ No terminal, execute:
 
 node script.js
 
