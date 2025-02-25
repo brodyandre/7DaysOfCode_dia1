@@ -42,6 +42,11 @@ let numeroDez = 10;
 
 let stringDez = '10';
 
+### //Solução da reescrita do código começa aqui...
+
+
+
+
 if (numeroUm === stringUm) {
 
 
