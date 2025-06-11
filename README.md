@@ -1,4 +1,4 @@
-## Este é um desafio de 7 dias"
+## Desafio de 7 dias
 
 🚀 JavaScript e Comparação de Tipos
 
